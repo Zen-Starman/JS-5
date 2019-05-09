@@ -1,0 +1,65 @@
+[{
+    "name": "Jane Doe",
+    "sex": "female",
+    "born": "1980",
+    "died": "Alive",
+    "father": "Joe Doe",
+    "mother": "Pam Doe"
+  },
+  {
+    "name": "Jane Ramirez",
+    "sex": "female",
+    "born": "1988",
+    "died": "Alive",
+    "father": "Jose Ramirez",
+    "mother": "Maria Ramirez"
+  },
+  {
+    "name": "George Doe",
+    "sex": "male",
+    "born": "1975",
+    "died": "Alive",
+    "father": "Joe Doe",
+    "mother": "Pam Doe"
+  },
+  {
+    "name": "Tiger Woods",
+    "sex": "male",
+    "born": "1945",
+    "died": "Alive",
+    "father": "Earl Woods",
+    "mother": "Kultida Woods"
+  },
+  {
+    "name": "Mel Brooks",
+    "sex": "male",
+    "born": "1926",
+    "died": "Alive",
+    "father": "Max Kaminsky",
+    "mother": "Kate Kaminsky"
+  },
+  {
+    "name": "Utada Hikaru",
+    "sex": "female",
+    "born": "1983",
+    "died": "Alive",
+    "father": "Teruzane Utadu",
+    "mother": "Keiko Fuji"
+  },
+  {
+    "name": "Cate Blanchett",
+    "sex": "female",
+    "born": "1969",
+    "died": "Alive",
+    "father": "Robert DeWitt Blanchett",
+    "mother": "June Blanchett"
+  },
+  {
+    "name": "Chris Farley",
+    "sex": "male",
+    "born": "1964",
+    "died": "1997",
+    "father": "Thomas Farley",
+    "mother": "Mary Anee Farley"
+  }
+ ]
